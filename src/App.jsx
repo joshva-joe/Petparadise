@@ -6,7 +6,7 @@ import { FaHeart, FaPaw } from "react-icons/fa";
 import { jsPDF } from 'jspdf';
 import { FaFacebook,FaInstagram, FaWhatsapp } from "react-icons/fa";
 import { FcGoogle } from "react-icons/fc";
-import "./app.css"
+import "./App.css"
 
 //Cards component 
 const Cards = ({ addItems, price, name, imgs }) => {
